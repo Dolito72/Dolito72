@@ -1,10 +1,9 @@
-## Hi there 👋
+## Hola a todos 👋
 
-<!--
-**Dolito72/Dolito72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+- 💫 Sobre Mí:
+Apasionada por el mundo de la tecnología con un enfoque proactivo y orientado a resultados. Mi trayectoria se centra en la creación de soluciones innovadoras y eficientes, donde la curiosidad y el compromiso son impulsados por la resolución creativa de problemas. Con muy buenas habilidades de comunicación, colaboro con equipos interdisciplinarios para lograr objetivos comunes. Siempre estoy lista para abrazar nuevos desafíos y aprender de cada experiencia, creyendo firmemente que el aprendizaje continuo es la clave para el éxito en el cambiante mundo tecnológico.
+- 💻 Tech Stack:
+ Java HTML5 JavaScript PHP Python Django  Spring Apache MySQL Postgres CSS3 Boostrap
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
